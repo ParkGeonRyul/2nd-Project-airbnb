@@ -30,7 +30,7 @@ AirBNB를 참고하여 만든 예약 사이트입니다.
 
 - `javascript`
 - `node.js`
-- **Framework** : `express.js`
+- **Framework** : `Node.js`
 - **Database** : `mySQL`
 - **ORM** : `TypeORM`
 <br>
