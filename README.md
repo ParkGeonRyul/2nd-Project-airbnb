@@ -29,8 +29,7 @@ AirBNB를 참고하여 만든 예약 사이트입니다.
 ### 개발 환경
 
 - `javascript`
-- `node.js`
-- **Framework** : `Node.js`
+- `Node.js`
 - **Database** : `mySQL`
 - **ORM** : `TypeORM`
 <br>
